@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 こんにちは！岸間 武志です
+# 👋 こんにちは！杵島　健です
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9AFF&center=true&vCenter=true&width=500&lines=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E9%96%8B%E7%99%BA%E8%80%85;%E6%8A%80%E8%A1%93%E3%81%A8%E9%9D%A9%E6%96%B0%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://git.io/typing-svg)
 
@@ -13,14 +13,14 @@
 <div align="left">
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding">
 
-こんにちは！**岸間 武志**です。情熱的なソフトウェアエンジニアとして、日々新しい技術を学び、革新的なソリューションの開発に取り組んでいます。
+こんにちは！**杵島　健**です。情熱的なソフトウェアエンジニアとして、日々新しい技術を学び、革新的なソリューションの開発に取り組んでいます。
 
-- 🌍 **拠点**: 東京、日本
+- 🌍 **拠点**: 福岡、日本
 - 💼 **職業**: シニアソフトウェアエンジニア
 - 🎓 **専門分野**: フルスタック開発、クラウドアーキテクチャ
 - 🌱 **現在学習中**: AI/ML、マイクロサービス、DevOps
 - 🎯 **目標**: より良いユーザー体験を提供する革新的なアプリケーションの開発
-- ⚡ **趣味**: オープンソース貢献、技術ブログ執筆、ハイキング
+- ⚡ **趣味**: オープンソース貢献、ゲーム
 
 </div>
 
@@ -77,16 +77,12 @@
 
 <div align="left">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:takeshi.kishima@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/takeshi-kishima)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/takeshi_kishima)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://takeshi-kishima.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahoo.fukuoka@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TakeSei)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/takeshi_kishima)
 
-📧 **Email**: takeshi.kishima@example.com  
-🐦 **Twitter**: @takeshi_kishima  
-💼 **LinkedIn**: linkedin.com/in/takeshi-kishima  
-🌐 **Portfolio**: takeshi-kishima.dev  
+📧 **Email**: yahoo.fukuoka@gmail.com  
+🐦 **Twitter**: @TakeSei  
 
 </div>
 
