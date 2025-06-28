@@ -79,7 +79,6 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahoo.fukuoka@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TakeSei)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/takeshi_kishima)
 
 📧 **Email**: yahoo.fukuoka@gmail.com  
 🐦 **Twitter**: @TakeSei  
@@ -126,10 +125,7 @@
 - 📱 **[Mobile API Gateway](https://github.com/takeshi-kishima/api-gateway)** - Go言語で開発したAPIゲートウェイ
 
 ### 📅 今月のハイライト
-- ✅ オープンソースプロジェクトに15回コントリビュート
-- ✅ 新しいTypeScriptライブラリをリリース
-- ✅ 技術カンファレンスで「マイクロサービス設計」について講演
-- ✅ Zennで3つの技術記事を公開
+- ✅ VsCode拡張機能「internal Terminal SSH」を更新
 
 ---
 
