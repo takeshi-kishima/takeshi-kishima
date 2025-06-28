@@ -113,16 +113,10 @@
 ## 🚀 最近の活動
 
 ### 📝 最新のブログ記事
-- 🌟 **React 18の新機能を徹底解説** - *2024年6月*
-- ⚡ **マイクロサービスアーキテクチャの実装パターン** - *2024年5月*
-- 🛠️ **DockerとKubernetesで始めるコンテナ運用** - *2024年4月*
-- 🎯 **Next.js 14でのパフォーマンス最適化テクニック** - *2024年3月*
+- 今は無し
 
 ### 🔥 注目プロジェクト
-- 🌐 **[Web App Dashboard](https://github.com/takeshi-kishima/web-dashboard)** - React & TypeScriptで構築したダッシュボード
-- 🤖 **[AI Chat Bot](https://github.com/takeshi-kishima/ai-chatbot)** - Python & FastAPIを使用したAIチャットボット
-- ☁️ **[Cloud Infrastructure](https://github.com/takeshi-kishima/cloud-infra)** - AWS & Terraformによるインフラストラクチャ
-- 📱 **[Mobile API Gateway](https://github.com/takeshi-kishima/api-gateway)** - Go言語で開発したAPIゲートウェイ
+- たくさん
 
 ### 📅 今月のハイライト
 - ✅ VsCode拡張機能「internal Terminal SSH」を更新
