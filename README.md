@@ -97,6 +97,8 @@
 ### 📅 今月のハイライト
 
 * ✅ VsCode拡張機能「internal Terminal SSH」を更新
+* ✅ npmパッケージ「prisma-commenter」を追加
+* ✅ VsCode拡張機能「prisma-er」を追加
 
 ***
 
