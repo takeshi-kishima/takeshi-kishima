@@ -11,15 +11,10 @@
 こんにちは！**杵島　健**です。情熱的なソフトウェアエンジニアとして、日々新しい技術を学び、革新的なソリューションの開発に取り組んでいます。
 
 * 🌍 **拠点**: 福岡、日本
-
 * 💼 **職業**: シニアソフトウェアエンジニア
-
 * 🎓 **専門分野**: フルスタック開発、クラウドアーキテクチャ
-
 * 🌱 **現在学習中**: AI/ML、マイクロサービス、DevOps
-
 * 🎯 **目標**: より良いユーザー体験を提供する革新的なアプリケーションの開発
-
 * ⚡ **趣味**: オープンソース貢献、ゲーム
 
 ***
@@ -73,15 +68,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takeshi-kishima&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=takeshi-kishima&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=takeshi-kishima&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=takeshi-kishima&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-kishima&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=takeshi-kishima&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🏆 GitHub トロフィー
+### 🏆 GitHub プロフィール概要
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=takeshi-kishima&theme=tokyonight&no-frame=true&margin-w=15)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takeshi-kishima&theme=tokyonight)
 
 ### 📈 貢献グラフ
 
@@ -113,6 +108,6 @@
 
 ***
 
-![Visitor Count](https://profile-counter.glitch.me/takeshi-kishima/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=takeshi-kishima&style=for-the-badge&color=2E9AFF)
 
 **💡 新しいプロジェクトやコラボレーションの機会をお探しですか？ぜひご連絡ください！**
