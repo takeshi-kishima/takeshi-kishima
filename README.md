@@ -75,8 +75,7 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takeshi-kishima&theme=tokyonight)
 
 ### 📈 貢献グラフ
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=takeshi-kishima&theme=tokyo-night&hide_border=true)
+[![takeshi-kishima's GitHub activity](https://ghchart.rshah.org/70a5fd/takeshi-kishima)](https://github.com/takeshi-kishima)
 
 ***
 
