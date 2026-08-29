@@ -1,6 +1,6 @@
 # 👋 こんにちは！杵島　健です
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&duration=3000\&pause=1000\&color=2E9AFF\&center=true\&vCenter=true\&width=500\&lines=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E9%96%8B%E7%99%BA%E8%80%85;%E6%8A%80%E8%A1%93%E3%81%A8%E9%9D%A9%E6%96%B0%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&duration=3000\&pause=1000\&color=2E9AFF\&center=true\&vCenter=true\&width=500\&lines=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E9%96%8B%E7%99%BA%E8%80%85;%E6%8A%80%E8%A1%93%E3%81%A8%E9%9D%A9%E6%96%B0%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2)](https://git.io/typing-svg)
 
 ***
 
@@ -68,11 +68,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takeshi-kishima&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=takeshi-kishima&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-kishima&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🏆 GitHub プロフィール概要
 
